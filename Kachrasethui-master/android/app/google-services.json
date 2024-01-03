@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "255191628830",
+    "project_id": "kachra-seth-58d84",
+    "storage_bucket": "kachra-seth-58d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255191628830:android:7688c5dbe81dd30982420f",
+        "android_client_info": {
+          "package_name": "com.kachraseth.app.kachrasethui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255191628830-mn9q2i9geelt8cgq0gf6vo7n4q73q8pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn4cq8HsEnUBG7RyICg-ixFminlC3fZhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255191628830-mn9q2i9geelt8cgq0gf6vo7n4q73q8pb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255191628830-noj4oj44cjsg3vjg44q7j6tkfb6ak3vh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kachraseth.app.kachrasethui"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
